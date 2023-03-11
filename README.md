@@ -17,3 +17,4 @@
 }
 8. Implement GET "http://localhost:4000/voters/, which return all data in the system.
 9. Implement PUT "http://localhost:4000/voters/thao/6411234567, which updates the candidates in the body. e.g. {"president": "John", "vice-president": "Christine"}
+10. Implement GET "http://localhost:4000/voters/thao?address=fairfield&phone=6411234567, which returns the vote's information of this voter.
